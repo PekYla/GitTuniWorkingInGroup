@@ -9,3 +9,9 @@ C = A + B
 print("A :",A)
 print("B :",B)
 print("A + B = C :",C)
+
+# Calculate multiple
+D = A * B
+
+# Print result
+print("A * B = D :", D)
