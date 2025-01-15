@@ -17,3 +17,9 @@ D = A * B
 
 # Print result
 print("A * B = D :", D)
+
+# Calculate subtraction
+E = A - B
+
+# Print result
+print("A - B = E :", E)
