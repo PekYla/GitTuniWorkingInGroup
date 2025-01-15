@@ -2,7 +2,7 @@
 A = 20
 B = 40
 
-# Calculate
+# Calculate summary
 C = A + B
 
 # Print result
