@@ -1,6 +1,6 @@
 # Variables
-A = 20
-B = 40
+A = 200
+B = 400
 
 # Print variables
 print("A :",A)
